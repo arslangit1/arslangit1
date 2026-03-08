@@ -91,16 +91,6 @@ Alongside research, I build **real-world engineering systems** including **IoT d
 
 ---
 
-# 📈 Activity
-
-<div align="center">
-
-![GitHub streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME)
-
-</div>
-
----
-
 # 🤝 Collaboration
 
 I’m interested in collaborating on projects involving:
