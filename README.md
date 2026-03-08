@@ -71,9 +71,9 @@ Alongside research, I build **real-world engineering systems** including **IoT d
 
 ![Python](https://img.shields.io/badge/Python-Data%20Science-blue)
 ![Machine Learning](https://img.shields.io/badge/Machine-Learning-green)
-![Power Systems](https://img.shields.io/badge/Power%20Systems-Analytics-orange)
-![Embedded Systems](https://img.shields.io/badge/Embedded-IoT-red)
-![Git](https://img.shields.io/badge/Git-Version%20Control-black)
+![Power Systems](https://img.shields.io/badge/Power%20Systems-Modeling-orange)
+![Embedded Systems](https://img.shields.io/badge/Embedded-IoT-violet)
+![Git](https://img.shields.io/badge/Git-Version%20Control-red)
 
 </div>
 
@@ -83,9 +83,9 @@ Alongside research, I build **real-world engineering systems** including **IoT d
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=default)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=arslangit1\&show_icons=true\&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arslangit1\&layout=compact)
 
 </div>
 
