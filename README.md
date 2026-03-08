@@ -85,9 +85,9 @@ Alongside research, I build **real-world engineering systems** including **IoT d
   
 ![](https://komarev.com/ghpvc/?username=arslangit1&base=1610&style=for-the-badge&color=blueviolet)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=arslangit1&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=arslangit1&show_icons=true&cache_seconds=86400)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arslangit1&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arslangit1&layout=compact&cache_seconds=86400)
 
 </div>
 
